@@ -84,6 +84,8 @@
     margin-top: 15px;
     border-radius: 5px;
 }
+
+/* About */
 .img-area img{
     width: 100% !important;
 }
@@ -95,4 +97,19 @@
 .about-text .btn{
     background: #08194a;
     color: #fff;
+}
+
+/* Services */
+
+.single-services{
+    background: #08194a;
+    color: #fff;
+    padding: 30px 15px;
+}
+.single-services i{
+    font-size: 45px;
+    margin-bottom: 30px;
+}
+.single-services h2{
+    font-family: bebas neue;
 }
