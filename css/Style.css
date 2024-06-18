@@ -131,3 +131,34 @@
     font-family: Arial, Helvetica, sans-serif;
     color: #08194a;
  }
+
+ /* Testimonial */
+
+ .imgbox{
+    width: 80px;
+    height: 80px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: 0 auto 25px;
+ }
+ .imgbox img{
+    width: 100%;
+ }
+ .single-client{
+    box-shadow: 0 2px 20px rgba(0,0,0,0.3);
+    padding: 30px 15px;
+ }
+ .single-client h2{
+    color: #08194a;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .single-client h5{
+    color: #08194a;
+    font-weight: 600;
+    font-size: 15px;
+ }
+ .single-client h5 span{
+    font-size: 12px;
+    text-transform: uppercase;
+ }
+ 
