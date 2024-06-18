@@ -111,5 +111,23 @@
     margin-bottom: 30px;
 }
 .single-services h2{
-    font-family: bebas neue;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
+ /* why us */
+
+ .choose-img img{
+    width: 100%;
+ }
+ .single-box{
+    padding-bottom: 20px;
+ }
+ .single-box i{
+    font-size: 35px;
+    margin-bottom: 25px;
+    color: #e53f29;
+ }
+ .single-box h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #08194a;
+ }
